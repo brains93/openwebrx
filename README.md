@@ -4,6 +4,10 @@ OpenWebRX is a multi-user SDR receiver software with a web interface.
 
 ----
 
+
+### ⚠️ From 01-02-2020 I am attemting to get this up and running within python3. ⚠️
+I'm updating this project as best I canin order to use it for a project I am working on with SDRs. I may add functionality but I will keep this updated as and when these plans come in.'
+
 ### ⚠️ From 2019-12-29 OpenWebRX development is discontinued. ⚠️
 
 I'm would like to say a big thanks to everyone who supported me during this project, including those who contributed either code or donations. It has been a very fruitful 6 years, but now it's time to move on to other projects. See also my [blog](https://blog.sdr.hu) about that.  
